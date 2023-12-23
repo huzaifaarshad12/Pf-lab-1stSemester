@@ -1,0 +1,8 @@
+lhr,ksk,visit,12jan,11:05
+lhr,kar,return,13jan,12:30
+isb,lhr,visit,15jan,15:30
+lhr,ksk,visit,16jan,17:25
+lhr,ksk,visit,12jan,12pm
+lahore,karachi,visit,12jan,12pm
+lhr,ksk,visit,12jan,12pm
+

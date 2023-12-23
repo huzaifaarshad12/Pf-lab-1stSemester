@@ -1,0 +1,10 @@
+Lhr,ksk,vist,12JAN,2,2,2,business
+lhr,isb,visit,15FEB,3,3,3,economy
+isb,kar,return,20JAN,4,4,4,business
+lhr,fsb,return,40JAN,7,7,7,economy
+lhr,ksk,visit,12jan,12,2,2,business
+lhr,ksk,visit,12jan,2,2,2,business
+lhr,ksk,visit,12jan,2,2,2,economy
+lahore,karachi,visit,12jan,2,2,2,business
+lhr,ksk,visit,12jan,2,2,2,business
+n,n,n,n,2,2,2,b

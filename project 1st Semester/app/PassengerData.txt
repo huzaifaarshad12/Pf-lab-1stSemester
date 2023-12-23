@@ -1,0 +1,9 @@
+huzaifa,42401,3403,0303,Huzaifa12,Male
+ali,4324,5678,0987,Ali13,Male
+hamza,4567,7654,0987,Hamza12,Male
+Talha,4356,3456,3456,Talha12,Male
+huzaifa,424018,0304,0306,huzaifa12,male
+huz,234,432,234,huzaifa12,male
+huz,234,432,234,234,male
+huz,123,321,123,123,male
+n,n,n,n,n,n
