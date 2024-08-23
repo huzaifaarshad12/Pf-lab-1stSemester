@@ -1,38 +1,39 @@
 #include <iostream>
 using namespace std;
-main(){
-cout<<"**********"<<endl;
-cout<<"*	 *"<<endl;
-cout<<"*	 *"<<endl;
-cout<<"* 	 *"<<endl;
-cout<<"*	 *"<<endl;
-cout<<"* 	 *"<<endl;
-cout<<"**********"<<endl;
+main()
+{
+  cout<<"**********"<<endl;
+  cout<<"*	 *"<<endl;
+  cout<<"*	 *"<<endl;
+  cout<<"* 	 *"<<endl;
+  cout<<"*	 *"<<endl;
+  cout<<"* 	 *"<<endl;
+  cout<<"**********"<<endl;
   
 
-cout<<"            *"<<endl;
-cout<<"           * *"<<endl;
-cout<<"          *   *"<<endl;
-cout<<"         *     *"<<endl;
-cout<<"        *********"<<endl;
+  cout<<"            *"<<endl;
+  cout<<"           * *"<<endl;
+  cout<<"          *   *"<<endl;
+  cout<<"         *     *"<<endl;
+  cout<<"        *********"<<endl;
  
 
-cout<<"*************"<<endl;
-cout<<" *           *"<<endl;
-cout<<"  *           *"<<endl;
-cout<<"   *           *"<<endl;
-cout<<"    *           *"<<endl;
-cout<<"     *           *"<<endl;
-cout<<"      *************"<<endl;
+  cout<<"*************"<<endl;
+  cout<<" *           *"<<endl;
+  cout<<"  *           *"<<endl;
+  cout<<"   *           *"<<endl;
+  cout<<"    *           *"<<endl;
+  cout<<"     *           *"<<endl;
+  cout<<"      *************"<<endl;
 
 
-cout<<"         **********"<<endl;                                                
-cout<<"        *          *"<<endl;          
-cout<<"       *            *"<<endl;          
-cout<<"      *              *"<<endl;        
-cout<<"       *            *"<<endl;
-cout<<"        *          * "<<endl;
-cout<<"         **********              "<<endl;
+  cout<<"         **********"<<endl;                                                
+  cout<<"        *          *"<<endl;          
+  cout<<"       *            *"<<endl;          
+  cout<<"      *              *"<<endl;        
+  cout<<"       *            *"<<endl;
+  cout<<"        *          * "<<endl;
+  cout<<"         **********              "<<endl;
 
 }
 
